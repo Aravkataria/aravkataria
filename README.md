@@ -41,7 +41,7 @@
   <tr>
     <td>📬</td>
     <td><b>Contact</b></td>
-    <td><a href="mailto:aravkataria2009@gmail.com">aravkataria2009@gmail.com</a></td>
+    <td><a href="mailto:aravkataria209@gmail.com">aravkataria2009@gmail.com</a></td>
   </tr>
 </table>
 
