@@ -31,7 +31,7 @@
   <tr>
     <td>🚀</td>
     <td><b>Working on</b></td>
-    <td>Pyramid Compress — a recursive image compression tool</td>
+    <td>esp-Spotify-Player: A small ESP32 player that mirrors whatever's currently playing on your PC</td>
   </tr>
   <tr>
     <td>🤝</td>
