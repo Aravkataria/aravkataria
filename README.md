@@ -31,7 +31,7 @@
   <tr>
     <td>🚀</td>
     <td><b>Working on</b></td>
-    <td>esp-Spotify-Player: A small ESP32 player that mirrors whatever's currently playing on your PC</td>
+    <td>esp-Spotify-Player: ESP32 OLED now-playing display</td>
   </tr>
   <tr>
     <td>🤝</td>
