@@ -31,7 +31,7 @@
   <tr>
     <td>🚀</td>
     <td><b>Working on</b></td>
-    <td>esp-Spotify-Player: ESP32 OLED now-playing display</td>
+    <td>LumiDesk: ESP32 OLED now-playing display</td>
   </tr>
   <tr>
     <td>🤝</td>
