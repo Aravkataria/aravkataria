@@ -4,6 +4,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-aravkataria.github.io-00bfff?style=for-the-badge&logo=vercel&logoColor=white)](https://aravkataria.github.io/portfolio/)
 [![GitHub followers](https://img.shields.io/github/followers/Aravkataria?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/Aravkataria?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=Aravkataria&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
 
@@ -39,6 +40,11 @@
     <td>Anything exciting!</td>
   </tr>
   <tr>
+    <td>🌐</td>
+    <td><b>Portfolio</b></td>
+    <td><a href="https://aravkataria.github.io/portfolio/">aravkataria.github.io/portfolio</a></td>
+  </tr>
+  <tr>
     <td>📬</td>
     <td><b>Contact</b></td>
     <td><a href="mailto:aravkataria2009@gmail.com">aravkataria2009@gmail.com</a></td>
@@ -50,7 +56,6 @@
 <br>
 
 <div align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Aravkataria&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Aravkataria&show_icons=true&count_private=true&theme=default">
