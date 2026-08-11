@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aravkataria.github.io-00bfff?style=for-the-badge&logo=vercel&logoColor=white)](https://aravkataria.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aravkataria.github.io-00bfff?style=for-the-badge)](https://aravkataria.github.io/portfolio/)
 [![GitHub followers](https://img.shields.io/github/followers/Aravkataria?style=for-the-badge&color=00bfff&label=Followers)](https://github.com/Aravkataria?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=Aravkataria&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
 
