@@ -1,0 +1,18 @@
+# Arav Kataria — GitHub Profile
+
+> This repo (`Aravkataria/aravkataria`) is a GitHub special profile repository — its README.md renders directly on https://github.com/Aravkataria and introduces Arav, a developer working on independent projects across AI/ML, embedded hardware, and automation. It contains no code; it's a landing page for the person, not a project.
+
+Arav builds from scratch — favoring ground-up, hands-on implementation over relying on existing libraries or APIs where the underlying mechanics are the point.
+
+## Elsewhere
+
+- Portfolio (full project writeups): https://aravkataria.github.io/portfolio/ — see its own [llms.txt](https://raw.githubusercontent.com/Aravkataria/portfolio/main/llms.txt)
+- GitHub: https://github.com/Aravkataria
+- Contact: aravkataria2009@gmail.com
+
+## Featured projects (see each repo's own llms.txt for details)
+
+- [Arch-Ai-Tex](https://github.com/Aravkataria/Arch-Ai-Tex): GAN + Random Forest floor-plan generation with Arduino/ESP32 sensor integration
+- [LumiDesk](https://github.com/Aravkataria/LumiDesk): ESP32 + OLED now-playing display reading Windows' media session
+- [pyramid-compression](https://github.com/Aravkataria/pyramid-compression): Recursive image compression built from raw pixel math, CLI + browser app
+- [GAN-loss-landscape-visualization](https://github.com/Aravkataria/GAN-loss-landscape-visualization): Research tool visualizing a trained GAN's loss surface
