@@ -32,7 +32,7 @@
   <tr>
     <td>🚀</td>
     <td><b>Working on</b></td>
-    <td>LumiDesk: ESP32 OLED now-playing display</td>
+    <td>ARGUS: A ai fake id detection model</td>
   </tr>
   <tr>
     <td>🤝</td>
