@@ -32,7 +32,7 @@
   <tr>
     <td>🚀</td>
     <td><b>Working on</b></td>
-    <td>ARGUS: A ai fake id detection model</td>
+    <td>VAJRA — Vulnerability Analysis, Judgment, Repair & Assurance</td>
   </tr>
   <tr>
     <td>🤝</td>
